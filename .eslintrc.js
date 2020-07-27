@@ -20,5 +20,6 @@ module.exports = {
     'no-param-reassign': 'off',
     'import/prefer-default-export': 'off',
     'import/extensions': 'off',
+    '@typescript-eslint/no-unused-vars': ['warn'],
   },
 };
