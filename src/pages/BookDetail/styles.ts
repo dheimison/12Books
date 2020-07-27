@@ -84,6 +84,10 @@ export const BookData = styled.div`
     align-items: center;
   }
 
+  @media (min-width: 751px) and (max-width: 1150px) {
+    left: 20px;
+  }
+
   span {
     font-size: 30px;
     font-weight: bold;
@@ -105,6 +109,10 @@ export const BookData = styled.div`
       font-size: 40px;
       margin-bottom: 20px;
       text-align: center;
+    }
+
+    @media (min-width: 751px) and (max-width: 1150px) {
+      font-size: 45px;
     }
   }
 `;
