@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/12Books/static/js/main.54cc00e4.chunk.js",
+    "main.js.map": "/12Books/static/js/main.54cc00e4.chunk.js.map",
+    "runtime-main.js": "/12Books/static/js/runtime-main.c2b2e125.js",
+    "runtime-main.js.map": "/12Books/static/js/runtime-main.c2b2e125.js.map",
+    "static/js/2.a3d528e4.chunk.js": "/12Books/static/js/2.a3d528e4.chunk.js",
+    "static/js/2.a3d528e4.chunk.js.map": "/12Books/static/js/2.a3d528e4.chunk.js.map",
+    "index.html": "/12Books/index.html",
+    "precache-manifest.e5104fd555f3c60366873907d930bee9.js": "/12Books/precache-manifest.e5104fd555f3c60366873907d930bee9.js",
+    "service-worker.js": "/12Books/service-worker.js",
+    "static/js/2.a3d528e4.chunk.js.LICENSE.txt": "/12Books/static/js/2.a3d528e4.chunk.js.LICENSE.txt",
+    "static/media/1984-George-Orwell.jpg": "/12Books/static/media/1984-George-Orwell.58fe6873.jpg",
+    "static/media/Count-Zero.jpg": "/12Books/static/media/Count-Zero.380c6cad.jpg",
+    "static/media/Do-Androids-Dream-of-Electric-Sheep.jpg": "/12Books/static/media/Do-Androids-Dream-of-Electric-Sheep.96cd67e3.jpg",
+    "static/media/Infomocracy.jpg": "/12Books/static/media/Infomocracy.7edb0096.jpg",
+    "static/media/Life- the-Universe-and-Everything.jpg": "/12Books/static/media/Life- the-Universe-and-Everything.9e0e8c84.jpg",
+    "static/media/Monalisa-Overdrive.jpg": "/12Books/static/media/Monalisa-Overdrive.6a93bedc.jpg",
+    "static/media/Neuromancer.jpg": "/12Books/static/media/Neuromancer.1009baae.jpg",
+    "static/media/Null-States-Book-Two-of-the-Centenal-Cycle.jpg": "/12Books/static/media/Null-States-Book-Two-of-the-Centenal-Cycle.337ed000.jpg",
+    "static/media/Snow-Crash.jpg": "/12Books/static/media/Snow-Crash.3f87106a.jpg",
+    "static/media/So-Long-and-Thanks-For-All-the-Fish.jpg": "/12Books/static/media/So-Long-and-Thanks-For-All-the-Fish.ba3f9a7c.jpg",
+    "static/media/The-Hitchhikers-Guide-to-the-Galaxy.jpg": "/12Books/static/media/The-Hitchhikers-Guide-to-the-Galaxy.33e1508d.jpg",
+    "static/media/The-Restaurant-at-the-End-of-the-Universe.jpg": "/12Books/static/media/The-Restaurant-at-the-End-of-the-Universe.e597d280.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2b2e125.js",
+    "static/js/2.a3d528e4.chunk.js",
+    "static/js/main.54cc00e4.chunk.js"
+  ]
+}
