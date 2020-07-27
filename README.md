@@ -2,7 +2,9 @@
 
 This project shows on the home page a list of books and when clicking on any book it redirects you to another page with more details about the book.
 
-![Demonstration](./.github/demo.gif)
+<div style="text-align: center">
+  <img src="./.github/demo.gif" alt="demonstration gif"/>
+</div>
 
 # How to run this project
 
