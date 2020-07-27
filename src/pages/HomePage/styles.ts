@@ -11,56 +11,34 @@ export const Header = styled.header`
   h1 {
     color: #fcfcca;
     font-size: 42px;
+    text-align: center;
   }
 `;
 
 export const Container = styled.main`
   width: 100%;
   display: flex;
-  align-items: center;
-  justify-content: center;
-`;
-
-export const BookList = styled.ul`
-  width: 1200px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-`;
-
-export const BookItem = styled.li`
-  margin: 30px 30px 0px 30px;
-  padding: 20px;
-  display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  transition: transform 0.5s;
-  border: 1px solid transparent;
-  cursor: pointer;
+`;
 
-  &:hover {
-    transform: translate(10px, -10px);
-    border-radius: 5px;
-    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
-  }
+export const NavigationContainer = styled.div`
+  display: flex;
+  justify-content: center;
+  align-items: center;
+`;
 
-  img {
-    width: 280px;
-    height: 400px;
-  }
-
-  span {
-    color: #0a0616;
-    font-size: 22px;
-    margin-top: 20px;
-  }
-
-  p {
-    color: #f75140;
-    font-size: 36px;
-    font-weight: bold;
-  }
+export const StyledButton = styled.button`
+  background: none;
+  border: none;
+  font-size: 24px;
+  font-weight: bold;
+  color: ${(props) => (props.disabled ? '#c4c4c4' : '#f75140')};
+  margin-right: 10px;
+  margin-bottom: 20px;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 `;
