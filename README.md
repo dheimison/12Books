@@ -7,7 +7,7 @@ This project shows on the home page a list of books and when clicking on any boo
 </p>
 
 <p align="center">
-  <a href="https://dheimison.github.io/12Books/">See it online here</a>  
+  <a href="https://dheimison.github.io/12Books/" target="_blank">See it online here</a>  
 </p>
 
 # How to run this project
