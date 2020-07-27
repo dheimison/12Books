@@ -22,7 +22,7 @@ const BookDetail = () => {
 
   const handleClick = () => {
     dispatch(removeSelectedBook());
-    history.push('/');
+    history.goBack();
   };
 
   return (
