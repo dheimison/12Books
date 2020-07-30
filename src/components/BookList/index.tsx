@@ -14,7 +14,7 @@ type BookListProps = {
   selectedPage: number;
 };
 
-const BookList = ({ bookData, selectedPage }: BookListProps) => {
+const BookList: React.FC<BookListProps> = ({ bookData, selectedPage }) => {
   const dispatch = useDispatch();
   const numberOfItensPerPage = 6;
 

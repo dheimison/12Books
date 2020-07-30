@@ -7,7 +7,7 @@ import BookList from 'components/BookList';
 
 import { Header, Container, NavigationContainer, StyledButton } from './styles';
 
-const Home = () => {
+const Home: React.FC = () => {
   const [numberOfPages, setNumberOfPages] = useState<number[]>([]);
   const [selectedPage, setSelectedPage] = useState<number>(1);
 

@@ -2,6 +2,7 @@ module.exports = {
   env: {
     browser: true,
     es6: true,
+    jest: true,
   },
   extends: ['plugin:react/recommended', 'airbnb', 'prettier', 'prettier/react'],
   parser: '@typescript-eslint/parser',
@@ -21,5 +22,6 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'import/extensions': 'off',
     '@typescript-eslint/no-unused-vars': ['warn'],
+    'react/prop-types': 0,
   },
 };

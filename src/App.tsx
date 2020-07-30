@@ -9,7 +9,7 @@ import history from 'services/history';
 
 import { store } from 'store';
 
-function App() {
+function App(): JSX.Element {
   return (
     <Provider store={store}>
       <Router history={history}>

@@ -9,7 +9,7 @@ import { removeSelectedBook } from './actions';
 
 import { Container, BookData } from './styles';
 
-const BookDetail = () => {
+const BookDetail: React.FC = () => {
   const selectedBook = useSelector((store: RootState) => store.selectedBook);
   const dispatch = useDispatch();
 
